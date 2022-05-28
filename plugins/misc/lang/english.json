@@ -1,10 +1,10 @@
 {
     "STRINGS": {
         "converters": {
-        "STICKER_DESC":"Creates stickers. Reply to media.",
-        "STICKER_NEED_REPLY":"Reply to a photo or a short video",
-        "MP3_DESC":"Converts replied media to mp3 format",
-        "MP3_NEED_REPLY:":"Reply to an audio or video",
+        "STICKER_DESC":"bach tsayb stickers.",
+        "STICKER_NEED_REPLY":"tagui chi tswria ola video",
+        "MP3_DESC":"bach t7awal chi video l mp3",
+        "MP3_NEED_REPLY:":"taguih 9bl maytaguik hhh",
         "BASS_DESC:":"Bass boosts audio. .bass 20",
         "BASS_NEED_REPLY:":"Reply to an audio",
         "PHOTO_DESC":"Converts non animated stickers to photo",
@@ -21,12 +21,12 @@
             "NO_PLUGIN": "No installed plugins found!",
             "REMOVE_DESC": "Removes plugin.",
             "NEED_PLUGIN": "Please give a plugin name! Example: .remove news*",
-            "PLUGIN_NOT_FOUND": "Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.",
+            "PLUGIN_NOT_FOUND": "Maybe you have installed such a plugin, or maybe not. But it sure isn t right now.",
             "DELETED": "✅ Plugin {} successfully deleted. Restart to make changes"
         },
         "group": {
-            "KICK_DESC": "Kicks participants from group.",
-            "NOT_ADMIN": "I'm not an admin",
+            "KICK_DESC": "ila bghiti tkhraj chi wahd mn group.",
+            "NOT_ADMIN": "ana machi l admin lah yhdik",
             "ISADMIN": "Participant is an admin",
             "KICKED": "Kicked!",
             "NEED_USER": "Need a participant",
@@ -44,10 +44,10 @@
             "MUTED": "Group muted. Only admins can send messages",
             "UNMUTE_DESC": "Unmutes the group chat allowing all participants to send messages",
             "UNMUTED": "Group opened.",
-            "REVOKE_DESC": "Resets the group's invitation link.",
+            "REVOKE_DESC": "Resets the group s invitation link.",
             "REVOKED": "Group link reset!",
             "TAGALL_DESC": "Tags all members of the group.",
-            "INVITE_DESC": "Provides the group's invitation link.",
+            "INVITE_DESC": "Provides the group s invitation link.",
             "INVITE": "Invite link:",
             "JID_DESC": "Gives jid of chat/user.",
             "GROUP_COMMAND": "This command only works in group chats",
@@ -61,13 +61,13 @@
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
-            "IM_AFK": "I'm AFK now!",
-            "IM_AFK_NOMD": "I'm AFK now!",
+            "IM_AFK": "I m AFK now!",
+            "IM_AFK_NOMD": "I m AFK now!",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "I am not AFK anymore!",
             "AFK_TEXT": "My owner is not here at the moment.",
-            "AFK_TEXT_NOMD": "I'm a bot!",
+            "AFK_TEXT_NOMD": "I m a bot!",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second"
@@ -105,7 +105,7 @@
             "NOT_FOUND": "No results found for this key"
         },
         "filters": {
-            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
+            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show s your filter list.",
             "NO_FILTER": "No filters found in this chat",
             "FILTERS": "🔎 Your filters in this chat:",
             "NEED_REPLY": "❌ Please type in reply!*\n*Example:",
@@ -117,13 +117,13 @@
         },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
-            "NOT_SET_WELCOME": "You don't set the welcome message yet.!*\n**To set:** _.welcome your welcome message",
+            "NOT_SET_WELCOME": "You don t set the welcome message yet.!*\n**To set:** _.welcome your welcome message",
             "WELCOME_ALREADY_SETTED": "✅ Welcome message already set!*\n*Message:* ",
             "NEED_WELCOME_TEXT": "Need a welcome message.*\n*Example:* _.welcome WELCOME!",
             "WELCOME_DELETED": "✅ Welcome message deactivated !",
             "WELCOME_SETTED": "✅ Welcome messages set",
-            "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
-            "NOT_SET_GOODBYE": "You didn't set a goodbye message!*\n*To set:* _.goodbye Your Goodbye Message",
+            "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show s the goodbye message.",
+            "NOT_SET_GOODBYE": "You didn t set a goodbye message!*\n*To set:* _.goodbye Your Goodbye Message",
             "GOODBYE_ALREADY_SETTED": "✅ Goodbye message has been set!*\n*Message:* ",
             "NEED_GOODBYE_TEXT": "You must write a message to set up the goodbye message.*\n*Example:* _.goodbye Goodbye!",
             "GOODBYE_DELETED": "✅ Goodbye message has been deleted successfully!",
@@ -138,7 +138,7 @@
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "Reply to a photo!",
             "DOWNLOADING": "Media is downloading & reading...",
-            "ERROR": "I couldn't read this :/_\n*Error:*_{}",
+            "ERROR": "I couldn t read this :/_\n*Error:*_{}",
             "RESULT": "Language:* _{}_\n*Here is what I read:* _{}"
         },
         "profile": {
@@ -152,22 +152,22 @@
             "BLOCKED": "Blocked!",
             "UNBLOCKED": "Unblocked!",
             "NEED_USER": "Give me a user!",
-            "JID_DESC": "Gives user's JID."
+            "JID_DESC": "Gives user s JID."
         },
         "scrapers": {
-            "TRANSLATE_DESC": "It translates replied msg with Google Translate",
+            "TRANSLATE_DESC": "bach trjm chi haja",
             "TRANSLATE_USAGE": ".trt en ml (From English to Malayalam)",
-            "NEED_REPLY": "Please reply to any message!",
+            "NEED_REPLY": "lah yhdik tagui dik lhaja li rak baghi trjmha!",
             "TRANSLATE_ERROR": "❌ An error occured while translating!",
-            "TTS_DESC": "Converts text to speech using google tts.",
+            "TTS_DESC": "bach trad ktba l audio.",
             "TTS_NEED_REPLY": "Need text!",
             "TTS_ERROR": "Failed to convert to speech. Please check your requested params!",
-            "SONG_DESC": "Downloads songs from youtube (list).",
+            "SONG_DESC": "bach tilicharji chi mosika mn youtube (list).",
             "NEED_TEXT_SONG": "Which song? \neg: .song Arabic Kuthu",
-            "NO_RESULT": "Not found",
-            "UPLOADING_SONG": "Downloading and uploading",
-            "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "Where's the link?",
+            "NO_RESULT": "malkithach smhlia afak ",
+            "UPLOADING_SONG": "bach tilicharji chi music mn youtube",
+            "VIDEO_DESC": "bach tilicharji chi video mn youtube.",
+            "NEED_VIDEO": "finahwa lien ?",
             "DOWNLOADING_VIDEO": "Downloading",
             "UPLOADING_VIDEO": "Uploading",
             "DLANG_DESC": "Guess the language of replied message.",
@@ -198,7 +198,7 @@
         },
         "tagall": {
             "TAGALL_DESC": "Mentions everyone in the group.",
-            "ADMIN": "I'm not an admin"
+            "ADMIN": "I m not an admin"
         },
         "updater": {
             "UPDATER_DESC": "Checks for bot updates.",
